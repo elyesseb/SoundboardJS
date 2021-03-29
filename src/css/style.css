@@ -10,10 +10,6 @@ body {
     background-color: #1D0F2F;
 }
 
-.container_unknow {
-    padding: 0;
-}
-
 #bg-image-container {
     height: 100%;
     overflow: hidden;
